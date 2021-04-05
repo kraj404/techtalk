@@ -9,6 +9,16 @@ API Guide - https://spoonacular.com/application/frontend/downloads/spoonacular-a
 Phython SDK - https://spoonacular.com/food-api/sdk
 Same API for RapidAPI.com = https://rapidapi.com/spoonacular/api/recipe-food-nutrition
 
+To get more API quota via rapidAPI.com - https://rapidapi.com/user/goodrecipe
+
+email - susmi.k@gmail.com
+hackathon name - https://hackbrightacademy.com/
+RapidAPI username - goodrecipe
+
+What are you going build - "I am a learning Python via https://hackbrightacademy.com/ to get back into workforce. As part of the course I am building a web site to propose the recipe to the users based on what they have on their refrigerator. Based on user input I will use the spoonacular API to present the relevant recipes. Next step is user can mark recipe as their favorite. Website also provide option to rate recipes. User can also write a review. These ratings and reviews will be updated using spoonacular API to the recipe.  User can also have option to create recipe if they don’t find any suitable one from search result. When user marks a recipe as fav it will be stored locally to present the user later. 
+To achieve this I will be building Phyton3 based http client. This will interface with spoonacular API and also present data to HTML pages for the user. I am also planning to use Phyton3 flask and Jinga framework. 
+My project will not go live only for learning purposes."
+
 # Bigoven
 https://api2.bigoven.com/swagger/ui/index
 
